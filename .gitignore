@@ -1,0 +1,18 @@
+# segredos: nunca versionar
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# editor / sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
