@@ -2,15 +2,15 @@
 
 Artigos técnicos de **Jefferson do Vale** sobre Linux, DevOps, infraestrutura e homelab, escritos ao longo
 dos meus estudos. Cada post traz o texto completo, a capa e o carrossel publicados nas redes, além dos
-scripts que geram essas imagens.
+scripts que geram essas imagens. Todos os artigos também estão no [dev.to/jefferson682](https://dev.to/jefferson682).
 
 > Conteúdo em português (pt-BR). Versões em outros idiomas virão depois.
 
 ## Posts
 
-| Data | Artigo | Série |
+| Publicado | Artigo | Série |
 |---|---|---|
-| — | Primeiro artigo em breve | Homelab na prática |
+| 24/11/2026 | [Cansei de procurar arquivos em 4 PCs: montei um servidor NFS em casa](posts/2026-11-nfs-home-server/) · [dev.to](https://dev.to/jefferson682/cansei-de-procurar-arquivos-em-4-pcs-montei-um-servidor-nfs-em-casa-1jh6) | Homelab na prática |
 
 ## Estrutura
 
