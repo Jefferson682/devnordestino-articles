@@ -10,7 +10,7 @@ scripts que geram essas imagens.
 
 | Data | Artigo | Série |
 |---|---|---|
-| — | Primeiro artigo em breve | Homelab na prática |
+| 2026-11 | [Cansei de procurar arquivos em 4 PCs: montei um servidor NFS em casa](posts/2026-11-nfs-home-server/article.md) | Homelab na prática |
 
 ## Estrutura
 
