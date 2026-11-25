@@ -1,11 +1,11 @@
 ---
 title: "Cansei de procurar arquivos em 4 PCs: montei um servidor NFS em casa"
-published: false
+published: true
 description: Como transformei um Ubuntu Server ocioso em um servidor de arquivos com NFS para compartilhar projetos e anotações entre vários PCs, e o perrengue que tive para fazer o WSL enxergar a pasta.
-tags: linux, nfs, homelab, devops
-cover_image:
+tags: linux, homelab, devops, braziliandevs
+cover_image: https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/6iax8mv3lvurop9l7tyt.png
 series: Homelab na prática
-canonical_url:
+canonical_url: https://dev.to/jefferson682/cansei-de-procurar-arquivos-em-4-pcs-montei-um-servidor-nfs-em-casa-1jh6
 ---
 
 ## Introdução
@@ -56,7 +56,7 @@ Resumindo as opções:
 
 O NFS (Network File System) é um protocolo que permite compartilhar uma pasta de uma máquina Linux pela rede. Os outros PCs montam essa pasta como se fosse um diretório local. A instalação é bem simples: um pacote para o servidor e outro para os clientes.
 
-```
+```plaintext
                   ┌──────────────────────────┐
                   │  cabugi (Ubuntu Server)  │
                   │  /srv/nfs/shared         │
