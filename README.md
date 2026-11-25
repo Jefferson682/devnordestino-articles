@@ -4,10 +4,13 @@ Artigos técnicos de **Jefferson do Vale** sobre Linux, DevOps, infraestrutura e
 dos meus estudos. Cada post traz o texto completo, a capa e o carrossel publicados nas redes, além dos
 scripts que geram essas imagens.
 
+> Conteúdo em português (pt-BR). Versões em outros idiomas virão depois.
+
 ## Posts
 
 | Data | Artigo | Série |
 |---|---|---|
+| — | Primeiro artigo em breve | Homelab na prática |
 
 ## Estrutura
 
